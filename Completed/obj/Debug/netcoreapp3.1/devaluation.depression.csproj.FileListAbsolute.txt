@@ -1,0 +1,20 @@
+C:\Candidate tests\New folder\Refactor\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.deps.json
+C:\Candidate tests\New folder\Refactor\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.dll
+C:\Candidate tests\New folder\Refactor\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.pdb
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.csproj.AssemblyReference.cache
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.AssemblyInfoInputs.cache
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.AssemblyInfo.cs
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.csproj.CoreCompileInputs.cache
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.dll
+C:\Candidate tests\New folder\Refactor\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.pdb
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.deps.json
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.dll
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\bin\Debug\netcoreapp3.1\devaluation.depression.pdb
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.csproj.AssemblyReference.cache
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.AssemblyInfoInputs.cache
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.AssemblyInfo.cs
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.csproj.CoreCompileInputs.cache
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.dll
+C:\Users\philip.h\Documents\SVN checkout\devaluation.depression\obj\Debug\netcoreapp3.1\devaluation.depression.pdb
